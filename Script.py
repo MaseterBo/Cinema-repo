@@ -1,13 +1,13 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝑴𝒀 𝑵𝑨𝑴𝑬 , <a href='https://t.me/Dqautofl_bot'>𝐀𝐍𝐍𝐀 𝐁𝐄𝐍</a>, 𝑰𝒕'𝒔 𝑽𝒆𝒓𝒓𝒚 𝑬𝒂𝒔𝒚. 𝑱𝒖𝒂𝒕 𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 𝑨𝒏𝒅 𝑴𝒂𝒌𝒆 𝑴𝒆 𝑨𝒅𝒎𝒊𝒏, 𝑻𝒉𝒂𝒕𝒔 𝑨𝒍𝒍, 𝑰'𝑳𝑳 𝑷𝒓𝒐𝒗𝒊𝒅𝒆 𝑴𝑶𝑽𝑰𝑬𝑺 𝑻𝒉𝒆𝒓𝒆 🤓
+𝑴𝒀 𝑵𝑨𝑴𝑬 , <a href='https://t.me/Dqautofl_bot'>𝗖𝗜𝗡𝗘𝗠𝗔_𝗠𝗔𝗦𝗧𝗘𝗥</a>, 𝑺𝒐𝒓𝒓𝒚,𝑰 𝒂𝒎 𝒏𝒐𝒕 𝒂 𝒑𝒖𝒃𝒍𝒊𝒄 𝒃𝒐𝒕,𝑰 𝒂𝒎 𝒔𝒉𝒂𝒓𝒆 𝒎𝒐𝒗𝒊𝒆 𝒂𝒕 <a href="https://t.me/cinemsastore"> 𝐜𝐢𝐧𝐞𝐦𝐚 𝐬𝐭𝐨𝐫𝐞 </a> 𝑮𝒓𝒐𝒖𝒑 , 𝑰 𝒂𝒎 𝒏𝒐𝒕 𝒔𝒉𝒂𝒓𝒆 𝒎𝒐𝒗𝒊𝒆𝒔 𝒂𝒕 𝒂𝒏𝒐𝒕𝒉𝒆𝒓 𝑮𝒓𝒐𝒖𝒑, 𝑫𝒐𝒏𝒕 𝒘𝒂𝒔𝒕𝒆 𝒕𝒚𝒎𝒆😉 𝒑𝒍𝒆𝒂𝒔𝒆 𝒂𝒔𝒌 𝒎𝒐𝒗𝒊𝒆 𝒂𝒕 𝒎𝒚 𝒈𝒓𝒐𝒖𝒑🤓
 𝑯𝑬𝒀,<a href='http://t.me/Dqautofl_Bot?startgroup=true'>𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 𝑨𝒏𝒅 𝑴𝒂𝒌𝒆 𝑴𝒆 𝑨𝒏 𝑨𝒅𝒎𝒊𝒏 𝑻𝒉𝒆𝒓𝒆</a>
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/pro_editor_tg"> 𝖫𝖺𝗅𝗅𝗎ˡᵃˡˡᵘˢ </a>"""
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/Jaizalvfc"> 𝑱𝑨𝑰𝒁𝑨𝑳 </a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """
-✪ 𝓜𝔂𝓷𝓪𝓶𝓮: <a href="https://t.me/Dqautofl_Bot"> 𝑨𝑵𝑵𝑨 𝑩𝑬𝑵 </a>
+✪ 𝓜𝔂𝓷𝓪𝓶𝓮: <a href="https://t.me/cinemamaster_bot"> 𝑪𝑵𝑬𝑴𝑨 𝑴𝑨𝑺𝑻𝑬𝑹 </a>
 ✪ 𝓒𝓻𝓮𝓪𝓽𝓸𝓻: <a href="https://t.me/team_annaben"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>
 ✪ 𝓛𝓲𝓫𝓻𝓮𝓪𝓻𝓻𝔂: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✪ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
